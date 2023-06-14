@@ -2,6 +2,8 @@
 
 Aula completa no Youtube:
 
+https://youtu.be/YtEIrM0wZug
+
 
 # O que você vai aprender nessa aula?
  - Configurar envio de Push Notification
@@ -18,3 +20,7 @@ Aula completa no Youtube:
 	Deep Linking = Enabled
 	Rejoin Sessions = Enabled for All Sessions
 	Page Protection = Arguments Must Have Checksum
+
+# Fontes:
+* https://apex.oracle.com/pls/apex/r/apex_pm/apex-pwa-reference/push-notifications
+* https://diveintoapex.com/tag/pl-sql/
